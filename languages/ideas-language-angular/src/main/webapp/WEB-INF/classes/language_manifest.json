@@ -1,0 +1,20 @@
+{
+    "id": "ideas-language-angular",
+    "extension": "ang",
+    "name": "Angular",
+    "formats": [
+        {
+            "format": "angular",
+            "editorModeId": "ace/mode/html",
+            "_editorModeURI": "mode-html.js",
+            "editorThemeId": "ace/theme/eclipse",
+            "_editorThemeURI": "theme-eclipse.js",
+            "checkLanguage": "true"
+        }
+    ],
+    "operations": [],
+    "templateProjects": null,
+    "templateFiles": null,
+    "inspectorLoader": "function(loader, format) {}",
+    "helpURI": "/views/help/index.jsp"
+}
