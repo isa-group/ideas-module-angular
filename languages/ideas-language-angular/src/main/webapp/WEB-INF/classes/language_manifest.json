@@ -9,7 +9,7 @@
             "_editorModeURI": "mode-html.js",
             "editorThemeId": "ace/theme/eclipse",
             "_editorThemeURI": "theme-eclipse.js",
-            "checkLanguage": "true"
+            "checkLanguage": "false"
         }
     ],
     "operations": [],

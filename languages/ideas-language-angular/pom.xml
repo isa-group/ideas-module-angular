@@ -3,12 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>es.us.isa.ideas.module</groupId>
-        <artifactId>ideas-module-sample</artifactId>
+        <artifactId>ideas-module-angular</artifactId>
         <version>1.0.0</version>
         <relativePath>./../../pom.xml</relativePath>
     </parent>
         
-    <groupId>es.us.isa.ideas.module.sample</groupId>
+    <groupId>es.us.isa.ideas.module.angular</groupId>
     <artifactId>ideas-language-angular</artifactId>
     <packaging>war</packaging>
 
